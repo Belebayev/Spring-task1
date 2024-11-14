@@ -1,0 +1,91 @@
+*{
+margin:2px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+.menuAll{
+display:flex;
+background: #b30713;
+}
+
+.menu{
+display: flex;
+align-items: center;
+color: white;
+margin-right:1087px
+}
+
+.menu p {
+    font-weight:bold;
+}
+.menu span {
+    font-weight:lighter;
+}
+
+.logo{
+display:flex;
+}
+
+.logo p {
+color:#b5bab6;
+}
+
+.Photos{
+width:240%;
+Height:240%;
+margin:10px 10px 10px 10px;
+}
+
+.AverageAll{
+background:#6da69d;
+display:flex;
+}
+
+
+.paragraph {
+font-size: 23px;
+font-weight: bold ;
+
+}
+
+.Middle{
+text-align: center;
+}
+
+.img1{
+margin:5px 5px 5px 0px;
+width: 391px;
+height  : 230px;
+}
+
+.ALlend{
+display:flex;
+}
+
+.imgtext1{
+margin: 0px;
+width: 95%;
+}
+
+.ALlend button{
+background: red;
+color: white;
+padding: 6px;
+font-size: 9px;
+font-weight: bold italic;
+border-radius:5px;
+
+}
+
+.str{
+margin:0px;
+}
+
+.paragraph{
+text-align:center;
+color:#61697a;
+}
